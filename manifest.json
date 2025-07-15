@@ -3,7 +3,6 @@
   "name": "YouTube Focus Extension",
   "version": "1.0",
   "description": "Reminds you to avoid distractions on YouTube.",
-  "permissions": ["scripting"],
   "host_permissions": ["https://www.youtube.com/*"],
   "content_scripts": [
     {
